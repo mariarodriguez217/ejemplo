@@ -1,4 +1,4 @@
 ## ejemplo
 mi primer repositorio en GitHub
-esta linea es distinta
+Esta linea va a estar en conflicto
 esta linea no
